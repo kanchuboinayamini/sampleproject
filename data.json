@@ -1,0 +1,31 @@
+{
+	"details":{
+		"image":"god.jpg",
+		"name":"yamini",
+		"email":"kanchuboinayamini@gmail.com",
+		"number":"8367353278",
+		"address":"simhachalam"
+	},
+	"education":[
+		{
+		"institute":"view college",
+		"degree":"btech",
+		"percentage":"83%",
+	    "passoutyear":"2018-2022"
+
+	},
+	{
+		"institute":" sri chaitanya",
+		"degree":"inter",
+		"percentage":"97%",
+		"passoutyear":"2016-2018"
+	},
+	{
+		"institute":"Ravindra bharathi",
+		"degree":"10",
+		"percentage":"9.7",
+		"passoutyear":"2016"
+	}
+	
+	]
+}
